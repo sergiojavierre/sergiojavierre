@@ -1,16 +1,19 @@
-### Hi there 👋
+🎓 Formación:
+- Grado en Ingeniería Informática
+- Máster Universitario en Tecnologías Software Avanzadas para Dispositivos Móviles
+- Máster Universitario en Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas
 
-<!--
-**SergioJavierre/sergiojavierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Empleo: 
+Desarrollo de Aplicaciones Web (CPIFP Pirámide)
+ - Bases de Datos
+ - Entornos de Desarrollo
+ - Lenguajes de Marcas y Sistemas de Gestión de Información
+ - Programación 
 
-Here are some ideas to get you started:
+Anteriormente: desarrollo de apps Android (Java), iOS (Objective-C y Swift), videojuegos (Unity3D), web (JS y PHP), bases de datos (MongoDB, MySQL, PostgreSQL), ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Intereses:
+- Tecnologías web y móviles
+- Bases de datos
+- Deporte
+
